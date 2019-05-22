@@ -1,0 +1,21 @@
+html, body {
+    font-family: 'Montserrat', sans-serif;
+}
+.half {
+    height: 50vh
+}
+.full {
+    height: 100vh
+}
+.yellow-text {
+    color: #FECA57;
+}
+.yellow-bg {
+    background-color: #FECA57;
+}
+.black-text {
+    color: #3D3D3D;
+}
+.black-bg {
+    background-color: #3D3D3D;
+}
