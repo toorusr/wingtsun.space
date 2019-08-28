@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://wingtsun.space?ref=repository"><img src="https://raw.githubusercontent.com/dev1m0/wingtsun.space/master/source/m/logo.0.png" width="200px" /></a>
+    <a href="https://wingtsun.space?ref=repository"><img src="https://raw.githubusercontent.com/dev1m0/wingtsun.space/master/source/m/logo.0.png" width="350px" /></a>
     <h3><b>WingTsun Website</b></h3>
     <br>
     <a href="https://github.com/dev1m0/wingtsun.space"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" /></a>
