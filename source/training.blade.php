@@ -22,6 +22,5 @@
         <div class="flex justify-center my-8 flex-wrap">
             @include('_components.person', ['name' => 'Mehmet', 'picture' => '/m/p/a/max.jpg', 'role' => 'Schulleiter, Trainer'])
             @include('_components.person', ['name' => 'Manfred', 'picture' => '/m/p/a/max.jpg', 'role' => 'Trainer'])
-            @include('_components.person', ['name' => 'Max', 'picture' => '/m/p/a/max.jpg', 'role' => 'Juniortrainer, Digitalpioneer'])
         </div>
 @endsection
