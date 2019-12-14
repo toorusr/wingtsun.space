@@ -3,11 +3,11 @@
 @section('body')
         @include('_partials.header')
         <div class="flex flex-wrap">
-            <div class="my-auto mx-auto md:w-2/3">
+            <div class="md:w-2/3">
                 @include('_partials.why')
             </div>
-            <div class="flex justify-center w-full md:w-1/3">
-                @include('_partials.times')
+            <div class="md:w-1/3">
+                @include('_partials.dynceve')
             </div>
         </div>
         @include('_partials.trainers')
