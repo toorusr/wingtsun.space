@@ -8,7 +8,7 @@
                    Autobahnausfahrt Schulzendorf
                 </p>
                 <div class="pt-6">
-                    <a class="bg-gray-900 text-yellow-500 p-2 rounded-lg" href="#">Jetzt Anfahrt planen</a>
+                    <a class="bg-gray-900 text-yellow-500 p-2 rounded-lg" href="https://www.google.com/maps/dir//WT+Heiligensee,+Hennigsdorfer+Str.+77,+13503+Berlin/@52.6187114,13.2211692,20.81z/data=!4m16!1m6!3m5!1s0x47a855652e7d571f:0x511d33e819eb824d!2sWT+Heiligensee!8m2!3d52.61897!4d13.21949!4m8!1m0!1m5!1m1!1s0x47a855652e7d571f:0x511d33e819eb824d!2m2!1d13.21949!2d52.61897!3e3">Jetzt Anfahrt planen</a>
                 </div>
             </div>
 </div>
