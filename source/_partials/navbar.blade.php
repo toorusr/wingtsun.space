@@ -18,13 +18,13 @@
                 <button id="userButton" class="flex justify-right items-center focus:outline-none mr-3">
                     <svg width="30" height="24" viewBox="0 0 84 63" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="84" height="15" rx="5" fill="#FECA57"/><rect y="24" width="84" height="15" rx="5" fill="#FECA57"/><rect y="48" width="84" height="15" rx="5" fill="#FECA57"/></svg>
                 </button>
-                <div id="userMenu" class="border bg-white rounded shadow-md mt-2 absolute mt-12 top-0 right-0 min-w-full overflow-auto z-30 invisible">
+                <div id="userMenu" class="border bg-white rounded shadow-md mt-2 absolute mt-12 top-0 right-0 w-64 overflow-auto z-30 invisible">
                     <ul class="list-reset">
-                        <li><a class="px-6 block py-2 text-xs" href="/über">Über uns</a></li>
+                        <li><a class="px-6 block py-2" href="/über">Über uns</a></li>
                         <li><hr class="border-t mx-2 border-gray-400"></li>
-                        <li><a class="px-6 block py-2 text-xs" href="/geschichte">Geschichte</a></li>
-                        <li><a class="px-8 block py-2 text-xs" href="/training">Training</a></li>
-                        <li><a href="/kontakt" class="font-bold px-8 py-2 block text-white bg-yellow-500 hover:bg-yellow-300 no-underline hover:no-underline">Contact</a></li>
+                        <li><a class="px-6 block py-2" href="/geschichte">Geschichte</a></li>
+                        <li><a class="px-8 block py-2" href="/training">Training</a></li>
+                        <li><a href="/kontakt" class="font-bold px-8 py-2 block text-white bg-yellow-500 hover:bg-yellow-300 no-underline hover:no-underline">Kontakt</a></li>
                     </ul>
                 </div>
             </div>
