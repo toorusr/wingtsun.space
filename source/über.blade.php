@@ -20,8 +20,8 @@
         </div>
         @include('_components.team-splitter')
         <div class="flex justify-center my-8 flex-wrap">
-            @include('_components.person', ['name' => 'Mehmet', 'picture' => '/m/p/a/max.jpg', 'role' => 'Schulleiter, Trainer'])
-            @include('_components.person', ['name' => 'Manfred', 'picture' => '/m/p/a/max.jpg', 'role' => 'Trainer'])
-            @include('_components.person', ['name' => 'Max', 'picture' => '/m/p/a/max.jpg', 'role' => 'Juniortrainer, Digitalpioneer'])
+            @include('_components.person', ['name' => 'Mehmet', 'lastname' => 'Yilmaz', 'picture' => '/m/p/a/.jpg', 'role' => 'Schulleiter, Trainer'])
+            @include('_components.person', ['name' => 'Manfred', 'lastname' => 'Müller', 'picture' => '/m/p/a/.jpg', 'role' => 'Trainer'])
+            @include('_components.person', ['name' => 'Maximilian', 'lastname' => 'Jendrall', 'picture' => '/m/p/a/max.jpg', 'role' => 'Juniortrainer'])
         </div>
 @endsection
