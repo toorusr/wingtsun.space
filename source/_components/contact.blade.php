@@ -5,7 +5,7 @@
             <form class="flex flex-col w-full md:max-w-xl" action="https://api.wingtsun.space/contact/" method="post">
                 <div class="flex flex-wrap md:flex-row bg-gray-900 text-yellow-500 rounded-lg border-4 border-yellow-600 p-2 m-2">
                     <h3 class="text-xl font-bold m-1">Probetraining?</h3>
-                    <a class="bg-yellow-500 ml-auto text-gray-900 py-2 text-l rounded-lg px-2" href="/training/probe">Zur Anmeldung</a>
+                    <a class="bg-yellow-500 ml-auto text-gray-900 py-2 text-l rounded-lg px-2" href="/probieren">Zur Anmeldung</a>
                 </div>
                 <input required class="bg-gray-900 text-yellow-500 rounded-lg border-4 border-yellow-600 p-2 m-2" type="text" name="name" placeholder="Vor- und Nachname" value="">
                 <input required class="bg-gray-900 text-yellow-500 rounded-lg border-4 border-yellow-600 p-2 m-2" type="email" name="email" placeholder="E-Mail Adresse" value="">
